@@ -60,6 +60,8 @@ General python introduction
 General stuff
 -------------
 
+These are my "lecture notes", i.e. what I didn't want to forget to tell you guys.
+
 ### Two camps of sci
 * Compute compute compute, using known algos
     * Paolo, physicists, chemists
@@ -89,6 +91,10 @@ General stuff
 * Glue code
 * Prototypes
 * Fast development time
+
+Uncleaned notes
+---------------
+Any other notes I had made quickly but didn't have the time to "cleanup".
 
 TODO:
 * ipython: %logon/logstart _ \_i
